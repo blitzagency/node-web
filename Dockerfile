@@ -13,4 +13,5 @@ RUN apk add --no-cache \
     libjpeg-turbo-dev \
     libpng-dev \
     zlib-dev \
+    git \
     build-base
