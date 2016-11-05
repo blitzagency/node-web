@@ -7,6 +7,7 @@ RUN apk add --no-cache \
     python \
     bash \
     openssl-dev \
+    openssh \
     ca-certificates \
     linux-headers \
     zeromq-dev \
